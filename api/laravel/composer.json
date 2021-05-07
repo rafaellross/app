@@ -10,7 +10,7 @@
         "fideloper/proxy": "^4.0",
         "fruitcake/laravel-cors": "^1.0",
         "intervention/image": "^2.5",
-        "laravel/framework": "5.6.*",
+        "laravel/framework": "6.18.*",
         "laravel/tinker": "^1.0"
     },
     "require-dev": {
